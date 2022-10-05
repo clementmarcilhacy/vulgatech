@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <span style={{ color: "red" }}>Bienvenue</span> à{" "}
+          <div style={{ color: "red" }}>Bienvenue</div> à
           <a href="https://nextjs.org">Vulgatech!</a>
         </h1>
 
